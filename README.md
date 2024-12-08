@@ -14,28 +14,7 @@ Built in Python using standard libraries and minimal dependencies
 Implements efficient data processing using Counter collections
 Uses regex pattern matching for accurate log parsing
 Generates responsive HTML reports with modern CSS styling
-Sample Output
-The system generates three types of analysis:
 
-Requests Per IP: Shows traffic distribution across different IP addresses
-Popular Endpoints: Identifies most accessed URLs/endpoints
-Security Alerts: Flags IPs with suspicious activity (e.g., multiple failed logins)
-Setup and Installation
-Prerequisites
-Python 3.6 or higher
-Git (optional, for cloning)
-Installation Steps
-Get the Code:
-
-# Option 1: Clone with Git
-git clone https://github.com/vignesh3022/VRV-Security-Python-Intern-Assignment.git
-cd log-analysis-system
-
-# Option 2: Download ZIP
-# Download and extract the ZIP file from the repository
-Install Dependencies:
-
-pip install prettytable
 How to Use
 Input
 The system processes web server logs in the standard Apache/Nginx format
